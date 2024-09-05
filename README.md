@@ -6,7 +6,7 @@
 
 
 
-<h2>🍰 Contribution Guidelines:</h2>
+<h2>🍰 Recommendations:</h2>
 
 Consider running it on Spyder.
 
